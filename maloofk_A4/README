@@ -1,0 +1,24 @@
+Week 4 CSC6301
+Karen Maloof
+
+Files:
+    IntLinkedList.java
+    Methods to read a list of Integer numbers from the scanned input and 
+    saves them into a Linked List sorted from the smallest to the largest.
+
+    Main.java
+    Runs methods in IntLinkedList.java
+
+Command to run:
+    From folder containing maloofk_A4 - 
+    java maloofk_A4/main.java
+
+Command to create Javadoc:
+    From folder containing maloofk_A4 - 
+    javadoc maloofk_A4/*.java
+
+Code Reuse:
+    This code uses the LinkedList library to create the Linked List and the Colletions framework to sort the Linked List.
+
+
+
