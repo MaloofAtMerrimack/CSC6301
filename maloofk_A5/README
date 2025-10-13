@@ -1,0 +1,28 @@
+Week 5 CSC6301
+Karen Maloof
+
+Files:
+    CreateList.java
+    Methods to read a list of Integer numbers from the scanned input and 
+    saves them into a Stack sorted from the smallest to the largest.
+
+    CreateListDriver.java
+    Runs methods in CreateList.java
+
+To Run:
+    From folder containing maloofk_A5 - 
+    java -cp bin maloofk_a5.CreateListDriver.java
+    
+
+ 
+Command to create Javadoc:
+    From folder containing maloofk_A5 - 
+    javadoc maloofk_A5/ -d docs *.java
+
+
+Changes from Week 4:
+- imported Stack instead of LinkedList.
+- Changed name of class from IntLinkedList to CreateList because while this is not good for a maintenence task, it'd be deceptive to have LinkedList in the class name when it uses Stack.
+- Changed intsList from LinkedList to Stack. 
+
+- The of the code is left the same
